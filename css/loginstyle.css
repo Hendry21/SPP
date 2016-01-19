@@ -1,0 +1,55 @@
+#mask {
+	background:#678 url(../images/mask_gradient_1000.png) no-repeat;
+	background-position:center;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background: url(../images/bg_snow.png) no-repeat fixed;	
+}
+
+.kolom {
+	margin-top:130px;
+	font: Georgia, "Times New Roman", Times, serif;
+}
+
+.kolom #container {
+	width: 520px;
+	background: #FFFFFF ;
+	margin: 0 auto;
+	text-align: left;
+	color:#000066;
+	border-radius:20px;
+	
+}
+
+.kolom #header {
+	background: #0000FF; 
+	padding: 0 10px 0 20px;
+	text-align:center;
+}
+
+.kolom #header h1 {
+	margin: 0;
+	padding: 10px 0;
+	color:#FFFFFF;
+}
+
+.kolom #mainContent {
+	padding: 0 20px;
+	text-align:center;
+}
+
+.kolom #footer {
+	padding: 0 10px;
+	background: #0000FF;
+}
+
+.kolom #footer p {
+	margin: 0;
+	padding: 10px 0;
+	color:#FFFFFF;
+	text-align:center;
+}
